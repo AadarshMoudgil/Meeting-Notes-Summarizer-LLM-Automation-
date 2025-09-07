@@ -13,6 +13,8 @@ Business teams often record meetings but don't have time to read transcripts. Th
 - Input: raw transcript text (`transcript.txt`)
 - Processing: LLM API call (OpenAI or Hugging Face)
 - Output: markdown summary (`meeting_summary.md`)
+## Worflow
+![Workflow Meet Summarizer](./workflow-meet-summarizer.png)
 
 ## Impact
 - Saves hours of manual note-taking.
