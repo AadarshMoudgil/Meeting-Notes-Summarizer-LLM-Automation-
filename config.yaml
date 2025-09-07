@@ -1,0 +1,3 @@
+transcript_file: transcript.txt
+output_file: meeting_summary.md
+model: gpt-3.5-turbo
