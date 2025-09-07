@@ -1,0 +1,3 @@
+Alice: Let's discuss the Q3 roadmap. We need to focus on customer onboarding.
+Bob: I suggest we allocate more resources to support.
+Charlie: Agreed. Action: Bob will draft a support plan by next Monday.
